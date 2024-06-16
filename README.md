@@ -13,5 +13,5 @@ conda activate diffuser-tutorial
 
 ## Associated blog posts
 
-- unconditional model (yet to come)
-- conditional model (yet to come)
+- [unconditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/02/diffusers-unconditional_model)
+- [conditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/16/diffusers-conditional_model.html)
