@@ -1,6 +1,6 @@
-# Diffuser tutorials
+# Diffusers tutorials
 
-Welcome to the Diffuser Tutorials repository by vroger11! This collection of tutorials is designed to help you explore and understand the [diffuser library](https://github.com/huggingface/diffusers) by reproducing some exercises from the [deeplearning.ai course](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) and beyond (coming soon).
+Welcome to the Diffusers Tutorials repository by vroger11! This collection of tutorials is designed to help you explore and understand the [diffusers library](https://github.com/huggingface/diffusers) by reproducing some exercises from the [deeplearning.ai course](https://www.deeplearning.ai/short-courses/how-diffusion-models-work/) and beyond (coming soon).
 
 ## Installation
 
@@ -22,5 +22,5 @@ All tutorials can be found in the `tutorials` folder. Each tutorial is paired wi
 
 ### Associated blog posts
 
-1. [Unconditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/02/diffusers-unconditional_model): Learn how to build an unconditional diffusion model using the diffuser library.
-2. [Conditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/16/diffusers-conditional_model.html): Dive into creating a conditional diffusion model using the diffuser library.
+1. [Unconditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/02/diffusers-unconditional_model): Learn how to build an unconditional diffusion model using the diffusers library.
+2. [Conditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/16/diffusers-conditional_model.html): Dive into creating a conditional diffusion model using the diffusers library.
