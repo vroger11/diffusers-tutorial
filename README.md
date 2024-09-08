@@ -24,3 +24,4 @@ All tutorials can be found in the `tutorials` folder. Each tutorial is paired wi
 
 1. [Unconditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/02/diffusers-unconditional_model): Learn how to build an unconditional diffusion model using the diffusers library.
 2. [Conditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/06/16/diffusers-conditional_model.html): Dive into creating a conditional diffusion model using the diffusers library.
+3. [Improve the conditional model](https://website.vincent-roger.fr/blog/deeplearning/python/2024/09/08/diffusers-obtain-better-results.html): improve the results from the previous tutorial.
